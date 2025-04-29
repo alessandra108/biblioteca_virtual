@@ -24,7 +24,7 @@ Uma aplicação web intuitiva feita com **React**, ideal para gerenciamento de l
 | **Hooks React** | `useState`, `useEffect` para controle de estado e efeitos  |
 | **API REST**    | Backend (ex: Spring Boot, Node.js ou JSON Server)          |
 
-🗂️ Estrutura do Projeto
+🗂️ **Estrutura do Projeto**
 
 biblioteca-virtual/
 ├── App.js               # Componente principal com lógica da aplicação
@@ -50,7 +50,7 @@ biblioteca-virtual/
 git clone https://github.com/alessandre108/biblioteca-virtual.git
 cd biblioteca-virtual
 
-##📦 **Instale as dependências**
+📦 **Instale as dependências**
 
 npm install
 
@@ -60,12 +60,12 @@ No arquivo App.js, edite a constante:
 
 const API_URL = "http://localhost:5159/livrosvirtual"; // 
 
-##▶️ **Inicie o projeto**
+▶️ **Inicie o projeto**
 
 -npm run dev
 -Acesse: http://localhost:5159
 
-##💡 **Como Usar**
+💡 **Como Usar**
 
 -Clique em  **Adicionar Livro** no topo da tela
 -Preencha os campos: **título, autor, gênero e descrição**
