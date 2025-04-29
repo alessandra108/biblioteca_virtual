@@ -77,6 +77,6 @@ O livro aparecerá na **lista inicial** com botões para Editar ou Excluir
 ![image](https://github.com/user-attachments/assets/b0309392-e7ef-434c-95fe-a38606166735)
 
 
-##✨ **Feito com 💙 por pessoas que amam ler**
+✨ **Feito com 💙 por pessoas que amam ler**
 
 Se você gostou do projeto, ⭐ favorite, contribua ou compartilhe com outros leitores e desenvolvedores!
