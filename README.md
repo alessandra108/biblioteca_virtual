@@ -50,7 +50,7 @@ biblioteca-virtual/
 git clone https://github.com/alessandre108/biblioteca-virtual.git
 cd biblioteca-virtual
 
-📦 Instale as dependências
+##📦 **Instale as dependências**
 
 npm install
 
@@ -60,26 +60,23 @@ No arquivo App.js, edite a constante:
 
 const API_URL = "http://localhost:5159/livrosvirtual"; // 
 
-▶️ Inicie o projeto
+##▶️ **Inicie o projeto**
 
-npm run dev
+-npm run dev
+-Acesse: http://localhost:5159
 
-Acesse: http://localhost:5159
+##💡 **Como Usar**
 
-💡 Como Usar
-
-Clique em + Adicionar Livro no topo da tela
-
-Preencha os campos: título, autor, gênero e descrição
-
-Clique em Salvar
-
-O livro aparecerá na lista inicial com botões para Editar ou Excluir
+-Clique em  **Adicionar Livro** no topo da tela
+-Preencha os campos: **título, autor, gênero e descrição**
+-Clique em **Salvar**
+O livro aparecerá na **lista inicial** com botões para Editar ou Excluir
 
 📸 Captura de Tela
 
-(Adicione aqui uma imagem ou GIF demonstrando a aplicação rodando)Exemplo:
+![image](https://github.com/user-attachments/assets/b0309392-e7ef-434c-95fe-a38606166735)
 
-✨ Feito com 💙 por pessoas que amam ler
+
+##✨ **Feito com 💙 por pessoas que amam ler**
 
 Se você gostou do projeto, ⭐ favorite, contribua ou compartilhe com outros leitores e desenvolvedores!
